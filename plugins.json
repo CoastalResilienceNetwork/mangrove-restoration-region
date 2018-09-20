@@ -1,0 +1,8 @@
+{
+  "plugins": [
+      {
+          "repo": "mangrove-restoration",
+          "name": "mangrove-restoration"
+      }
+  ]
+}
